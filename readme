@@ -1,0 +1,23 @@
+
+ana_menü = "VERİTABANI İŞLEMLERİ\n" \
+           "SQLite Veritabanı\n" \
+           "\n" \
+           " [1]  Bir Veritabanı Oluşturma ve Bağlantı Kurma\n" \
+           " [2]  İmleç (Kürsör) Tanımlama\n" \
+           " [3]  Tablo Oluşturma\n" \
+           " [4]  Sqlite Browser\n" \
+           " [5]  Tabloya Kayıt Ekleme\n" \
+           " [6]  Verilerin Veritabanına Aktarılması\n" \
+           " [7]  Veritabanı Bağlantısının Kapatılması\n" \
+           " [8]  Parametreli Sorgular\n" \
+           " [9]  Var Olan Kaydı Güncelleme\n" \
+           " [10] Sorguya Koşul Ekleme\n" \
+           " [11] Kayıt Silme\n" \
+           " [12] Kayıtları Listeleme\n" \
+           "      [12.1] Seçilen Verilerin Alınması\n" \
+           "          [12.1.1] fetchall()\n" \
+           "          [12.1.2] fetchone()\n" \
+           "          [12.1.3] fetchmany()\n" \
+           "          [12.1.4] Fonksiyon Kullanmadan Veri Alma\n" \
+           "          [12.1.5] SQLite Alan Adlarına Göre Veri Alma\n" \
+           " [13] Bellekte Geçici Veritabanları Oluşturma\n"
